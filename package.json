@@ -1,5 +1,5 @@
 {
-    "name": "yaqrcode",
+    "name": "qr-base64",
     "description": "Yet another node-qrcode Generator! Simple and pure javascript! Forked from https://github.com/moselhy/node-yaqrcode and published with types",
     "version": "0.3.0",
     "author": "Mohamed Moselhy",
